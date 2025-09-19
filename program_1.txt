@@ -1,0 +1,13 @@
+age = input("What is your age?")
+if age < 0
+    output unborn
+else if age <= 1
+    output infant
+else if age > 1 and age < 13
+    output child
+else if age >= 13 and age < 20
+    output teen
+else if age = 969
+    output "Hi Methuselah!"
+else
+    output adult
